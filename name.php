@@ -1,5 +1,8 @@
 <?php
-$number = 5;
-echo $number;
-
-
+$num = 71;
+    if ($num < 16) {
+        echo $num;
+}   else {
+        echo '5';
+}
+?>
